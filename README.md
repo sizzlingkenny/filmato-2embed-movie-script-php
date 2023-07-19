@@ -1,3 +1,5 @@
+<h2>Also Try <a href="https://github.com/sizzlingkenny/gogoanime-api-with-data-to-embed">Gogoanime streaming API with Database</a></h2>
+
 <h1>Filmato - Watch Movies Script Free with TMDB API without Database</h1>
 
 <h2>How to Install</h2>
