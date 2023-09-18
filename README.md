@@ -29,3 +29,5 @@ Search Page Screenshot<br><br>
 Movie Page Screenshot<br><br>
 <img src="https://raw.githubusercontent.com/sizzlingkenny/filmato-movie-script-php/main/img/filmato-movie.png">
 </h3>
+<br><br>
+<h3>Need Support? <br> Telegram: @sizzlingkenny</h3>
