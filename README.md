@@ -18,7 +18,7 @@ That's It, you have fully functional responsive Website ready to use with 50,000
 <br><br>
 You Just Need a domain, you can buy as many as new domains to add it to autostream to make a big pool of your streaming website with your own theme colors and design
 <br><br>
-Streaming Site Demo: https://filmato.cfd/
+Streaming Site Demo: https://soap2dayto.xyz/
 <br><br><br>
 Main Page Screenshot<br><br>
 <img src="https://github.com/sizzlingkenny/filmato-2embed-movie-script-php/blob/main/img/1.png">
