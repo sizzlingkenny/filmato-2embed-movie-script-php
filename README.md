@@ -8,7 +8,7 @@ Step 2: after sign-up, you will need to add your website / URL in the dashboard 
 <br><br>
 Step 3: once your website is added go to my websites -> https://autostream.skin/websites
 <br><br>
-Step 4: now click the edit icon very next to your recently added domain and click it
+Step 4: now click the edit icon very next to your recently added domain
 <br><br>
 Step 5: on the domain edit section you can add your website name, title, meta description, logo, custom css, your ad codes 
 <br><br>
