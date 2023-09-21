@@ -18,16 +18,13 @@ That's It, you have fully functional responsive Website ready to use with 50,000
 <br><br>
 You Just Need a domain, you can buy as many as new domains to add it to autostream to make a big pool of your streaming website with your own theme colors and design
 <br><br>
-Demo: https://fdown.cyou/
+Streaming Site Demo: https://filmato.cfd/
 <br><br><br>
 Main Page Screenshot<br><br>
-<img src="https://raw.githubusercontent.com/sizzlingkenny/filmato-movie-script-php/main/img/filmato-main.png">
-<br><br><br>
-Search Page Screenshot<br><br>
-<img src="https://raw.githubusercontent.com/sizzlingkenny/filmato-movie-script-php/main/img/filmato-srch.png">
+<img src="https://github.com/sizzlingkenny/filmato-2embed-movie-script-php/blob/main/img/1.png">
 <br><br><br>
 Movie Page Screenshot<br><br>
-<img src="https://raw.githubusercontent.com/sizzlingkenny/filmato-movie-script-php/main/img/filmato-movie.png">
+<img src="https://github.com/sizzlingkenny/filmato-2embed-movie-script-php/blob/main/img/2.png">
 </h3>
 <br><br>
-<h3>Need Support? <br> Telegram: @sizzlingkenny</h3>
+<h3>Live Support Chat has been added in the AutoStream Dashboard</h3>
