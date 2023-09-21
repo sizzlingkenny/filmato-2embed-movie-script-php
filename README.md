@@ -30,4 +30,4 @@ Dashboard Screenshot<br><br>
 <img src="https://raw.githubusercontent.com/sizzlingkenny/filmato-2embed-movie-script-php/main/img/3.png">
 </h3>
 <br><br>
-<h3>Talk to Live Support Chat to Get Server IP Address</h3>
+<h3>Live Support Chat is Installed in the Dashboard</h3>
