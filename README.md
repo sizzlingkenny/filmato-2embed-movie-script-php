@@ -25,6 +25,9 @@ Main Page Screenshot<br><br>
 <br><br><br>
 Movie Page Screenshot<br><br>
 <img src="https://github.com/sizzlingkenny/filmato-2embed-movie-script-php/blob/main/img/2.png">
+<br><br><br>
+Dashboard Screenshot<br><br>
+<img src="https://raw.githubusercontent.com/sizzlingkenny/filmato-2embed-movie-script-php/main/img/3.png">
 </h3>
 <br><br>
-<h3>Live Support Chat has been added in the AutoStream Dashboard</h3>
+<h3>Talk to Live Support Chat to Get Server IP Address</h3>
