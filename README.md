@@ -1,5 +1,7 @@
 <h1>AutoStream - Watch Movies, Tv-Series, Anime with Database</h1>
-
+<br>
+<h3><a href="https://github.com/sizzlingkenny/gogo-anime-api-2024">Anime API</a></h3>
+<hr>
 <h2>How to Install</h2>
 
 <h3>Step 1: sign-up a free account at -> https://autostream.skin/
