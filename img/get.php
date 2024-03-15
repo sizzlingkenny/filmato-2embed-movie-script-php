@@ -87,7 +87,7 @@ progress::-moz-progress-bar {
 	<div class="form-group">
 		<div id="progressDiv" style="display:none;">
 			<div id="spinner" style="width:100%;margin-top:-20px;">
-				<img src="/images/spinner.gif" style="width:220px;">
+				<img src="https://raw.githubusercontent.com/sizzlingkenny/filmato-2embed-movie-script-php/main/img/spinner.gif" style="width:220px;">
 			</div>
 			<progress id="progressBar" value="0" max="100" style="width:100%;height:1.5rem;border:none;margin-top:25px;background:#bbb;"></progress>
 		</div>
